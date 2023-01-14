@@ -1,7 +1,7 @@
 
 
 const heading1=React.createElement("h1",{id:"title"},"hello everyone1");
-const heading2=React.createElement("h1",{id:"title"},"hello everyone2");
+const heading2=React.createElement("h1",{id:"title"},"I tried to change things");
 const div=React.createElement("div",{id:"container"},[heading1,heading2]);
     console.log(React);
     //assingning to root
